@@ -1,0 +1,25 @@
+
+
+header {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: crimson;
+}
+
+h3 {
+    color: rgb(153, 15, 42);
+}
+
+.contenido-de-imagen {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:300;
+    padding: 1em 1em 1em 1em;
+    border-radius: 10%;
+    transition: 0.5s;
+    display:flex;
+    flex-direction: column;
+    align-self:center;
+
+}
+
